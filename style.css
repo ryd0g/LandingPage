@@ -1,0 +1,19 @@
+.navbar {
+    padding: 1rem;
+}
+.footer {
+    padding: 1rem;
+}
+.jumbotron {
+    background-image: url(images/hero-bg.jpeg);
+    min-height: 280px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
