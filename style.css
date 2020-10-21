@@ -17,3 +17,10 @@
     bottom: 0;
     z-index: -1;
 }
+img {
+    padding: 5px;
+}
+.col-lg-4 {
+    border: 3px solid white;
+    border-radius: 4px;
+}
